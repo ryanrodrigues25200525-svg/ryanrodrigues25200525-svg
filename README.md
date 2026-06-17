@@ -17,10 +17,6 @@ Incoming Master's student in Computer Science, based in Dubai. I build open-sour
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanrodrigues25200525-svg&show_icons=true&theme=default&hide_border=true&hide_title=true&hide=stars)
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-rodrigues-7777)
