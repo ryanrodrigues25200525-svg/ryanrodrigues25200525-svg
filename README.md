@@ -7,6 +7,7 @@ Incoming Master's student in Computer Science, based in Dubai. I build open-sour
 | Project | Description | Stack |
 | --- | --- | --- |
 | [TradingCLI](https://github.com/ryanrodrigues25200525-svg/tradingcli) | Local-first paper-trading toolkit — CLI, dashboard, and MCP server for AI agents | Python · SQLite · MCP |
+| [Systematic Trading Strategy Research Library](https://github.com/ryanrodrigues25200525-svg/trading-strategy-research) | 24 reproducible Jupyter notebooks testing factor, trend, multi-asset, crisis, and hedge-fund-inspired strategies | Python · pandas · Jupyter · yfinance |
 | [OpenFilings](https://github.com/ryanrodrigues25200525-svg/openfilings) | Normalized IFRS financial statements for public companies across 25 non-US markets | Python · XBRL · MCP |
 | [DCF-Builder-Pro](https://github.com/ryanrodrigues25200525-svg/DCF-Builder-Pro) | Open-source DCF valuation terminal for analyzing public companies | TypeScript · React |
 | [DCF-Builder-Pro-Desktop](https://github.com/ryanrodrigues25200525-svg/DCF-Builder-Pro-Desktop) | Desktop app for building DCF valuations | TypeScript · Electron |
