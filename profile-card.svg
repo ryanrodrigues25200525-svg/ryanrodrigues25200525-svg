@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 814" width="900" height="814" role="img" aria-label="Ryan Rodrigues — terminal profile card">
+<rect x="18" y="18" width="864" height="778" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="46" cy="40" r="6" fill="#ff5f56"/>
+<circle cx="64" cy="40" r="6" fill="#ffbd2e"/>
+<circle cx="82" cy="40" r="6" fill="#27c93f"/>
+<text x="100" y="46" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="12" fill="#8b949e" >ryan@dubai: ~/profile</text>
+<line x1="40" y1="60" x2="860" y2="60" stroke="#21262d" stroke-width="2"/>
+<text x="40" y="78" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e3b341" >  _______     __      _   _   _____   ____  _____  _____  _____ _____ _    _ ______  _____</text>
+<text x="40" y="97" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e3b341" > |  __ \ \   / //\   | \ | | |  __ \ / __ \|  __ \|  __ \|_   _/ ____| |  | |  ____|/ ____|</text>
+<text x="40" y="116" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e3b341" > | |__) \ \_/ //  \  |  \| | | |__) | |  | | |  | | |__) | | || |  __| |  | | |__  | (___</text>
+<text x="40" y="135" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e3b341" > |  _  / \   // /\ \ | . ` | |  _  /| |  | | |  | |  _  /  | || | |_ | |  | |  __|  \___ \</text>
+<text x="40" y="154" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e3b341" > | | \ \  | |/ ____ \| |\  | | | \ \| |__| | |__| | | \ \ _| || |__| | |__| | |____ ____) |</text>
+<text x="40" y="173" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e3b341" > |_|  \_\ |_/_/    \_\_| \_| |_|  \_\\____/|_____/|_|  \_\_____\_____|\____/|______|_____/</text>
+<text x="40" y="211" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="15" fill="#3fb950" font-weight="bold" >ryan@dubai</text>
+<line x1="40" y1="236" x2="860" y2="236" stroke="#21262d" stroke-width="2"/>
+<text x="40" y="255" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >OS     </text>
+<text x="94.94999999999999" y="255" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >macOS | UTC+4</text>
+<text x="40" y="274" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >SCHOOL </text>
+<text x="94.94999999999999" y="274" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >MSc Computer Science @ St Andrews | Sept 2026</text>
+<text x="40" y="293" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >FOCUS  </text>
+<text x="94.94999999999999" y="293" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >quant dev | fintech | research automation</text>
+<text x="40" y="312" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >STACK  </text>
+<text x="94.94999999999999" y="312" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >python | typescript | sqlite | mcp</text>
+<text x="40" y="331" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >FUND   </text>
+<text x="94.94999999999999" y="331" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >Nautilus Capital — student-led, multi-strategy</text>
+<text x="40" y="350" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >READS  </text>
+<text x="94.94999999999999" y="350" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >SEC XBRL | 13F | earnings transcripts</text>
+<text x="40" y="388" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="14" fill="#e3b341" font-weight="bold" >▸ PROJECTS</text>
+<line x1="40" y1="413" x2="860" y2="413" stroke="#21262d" stroke-width="2"/>
+<text x="40" y="432" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >[1]</text>
+<text x="71.4" y="432" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >TradingCLI</text>
+<text x="275.5" y="432" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >— local-first paper-trading CLI, terminal dashboard + MCP server</text>
+<text x="71.4" y="451" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#58a6ff" >github.com/ryanrodrigues25200525-svg/tradingcli</text>
+<text x="40" y="470" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >[2]</text>
+<text x="71.4" y="470" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >Money Flow</text>
+<text x="275.5" y="470" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >— SEC XBRL -&gt; money-flow diagrams for every US filer</text>
+<text x="71.4" y="489" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#58a6ff" >github.com/ryanrodrigues25200525-svg/money-flow</text>
+<text x="40" y="508" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >[3]</text>
+<text x="71.4" y="508" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >OpenFilings</text>
+<text x="275.5" y="508" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >— normalized IFRS financials across 25 non-US markets</text>
+<text x="71.4" y="527" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#58a6ff" >github.com/ryanrodrigues25200525-svg/openfilings</text>
+<text x="40" y="546" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >[4]</text>
+<text x="71.4" y="546" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >DCF Builder Pro</text>
+<text x="275.5" y="546" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >— open-source DCF valuation terminal + desktop app</text>
+<text x="71.4" y="565" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#58a6ff" >github.com/ryanrodrigues25200525-svg/DCF-Builder-Pro</text>
+<text x="40" y="584" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >[5]</text>
+<text x="71.4" y="584" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >Systematic Strategy Lab</text>
+<text x="275.5" y="584" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >— 20+ reproducible notebooks of systematic strategies</text>
+<text x="71.4" y="603" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#58a6ff" >github.com/ryanrodrigues25200525-svg/systematic-strategy-lab</text>
+<text x="40" y="622" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >[6]</text>
+<text x="71.4" y="622" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >Muse</text>
+<text x="275.5" y="622" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >— CLI, TUI + MCP controller for Apple Music on macOS</text>
+<text x="71.4" y="641" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#58a6ff" >github.com/ryanrodrigues25200525-svg/Muse</text>
+<text x="40" y="660" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >[7]</text>
+<text x="71.4" y="660" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >substack-mcp</text>
+<text x="275.5" y="660" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >— MCP server for reading Substack publications + posts</text>
+<text x="71.4" y="679" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#58a6ff" >github.com/ryanrodrigues25200525-svg/substack-mcp</text>
+<text x="40" y="717" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="14" fill="#e3b341" font-weight="bold" >▸ CONNECT</text>
+<line x1="40" y1="742" x2="860" y2="742" stroke="#21262d" stroke-width="2"/>
+<text x="40" y="761" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >LINKEDIN </text>
+<text x="110.64999999999999" y="761" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >linkedin.com/in/ryan-rodrigues-77</text>
+<text x="40" y="780" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >EMAIL    </text>
+<text x="110.64999999999999" y="780" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >ryanrodrigues25200525@gmail.com</text>
+<text x="40" y="799" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >FUND     </text>
+<text x="110.64999999999999" y="799" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >nautiluscapital.org</text>
+<text x="40" y="818" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >GITHUB   </text>
+<text x="110.64999999999999" y="818" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >github.com/ryanrodrigues25200525-svg</text>
+</svg>
