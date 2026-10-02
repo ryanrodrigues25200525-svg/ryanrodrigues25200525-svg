@@ -7,8 +7,8 @@
 <text x="100" y="46" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="12" fill="#8b949e" >ryan@dubai: ~/profile</text>
 <text x="40" y="78" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="14" fill="#e3b341" font-weight="bold" >▸ PROFILE</text>
 <line x1="40" y1="105" x2="860" y2="105" stroke="#21262d" stroke-width="2"/>
-<text x="40" y="124" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >Ryan Rodrigues — incoming MSc Computer Science student at the University of</text>
-<text x="40" y="143" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >St Andrews (Sept 2026), based in Dubai. I build open-source fintech tooling:</text>
+<text x="40" y="124" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >Ryan Rodrigues — MSc Computer Science student at the University of</text>
+<text x="40" y="143" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >St Andrews, based in Dubai. I build open-source fintech tooling:</text>
 <text x="40" y="162" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >DCF valuation, paper trading, SEC XBRL pipelines, and AI-driven research</text>
 <text x="40" y="181" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >workflows for the market. I run Nautilus Capital, a student-led, multi-</text>
 <text x="40" y="200" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >strategy fund — and do my reading straight from the filings: 13Fs, earnings</text>
