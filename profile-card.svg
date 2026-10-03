@@ -36,9 +36,9 @@
 <text x="275.5" y="379" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >normalized IFRS financials across 25 non-US markets</text>
 <text x="707.25" y="379" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" >Python | XBRL | MCP</text>
 <text x="40" y="398" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >4</text>
-<text x="79.25" y="398" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >DCF Builder Pro</text>
-<text x="275.5" y="398" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >open-source DCF valuation terminal + desktop app</text>
-<text x="707.25" y="398" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" >TypeScript | React</text>
+<text x="79.25" y="398" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >DCF CLI</text>
+<text x="275.5" y="398" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >local-first CLI + versioned Excel models</text>
+<text x="707.25" y="398" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" >Python | TypeScript</text>
 <text x="40" y="417" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >5</text>
 <text x="79.25" y="417" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >Systematic Strategy Lab</text>
 <text x="275.5" y="417" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >20+ reproducible notebooks of systematic strategies</text>
