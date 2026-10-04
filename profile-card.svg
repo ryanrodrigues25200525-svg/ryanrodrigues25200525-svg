@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 657" width="900" height="657" role="img" aria-label="Ryan Rodrigues — terminal profile card">
-<rect x="18" y="18" width="864" height="621" rx="10" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 714" width="900" height="714" role="img" aria-label="Ryan Rodrigues — terminal profile card">
+<rect x="18" y="18" width="864" height="678" rx="10" fill="#0d1117" stroke="#30363d"/>
 <line x1="40" y1="60" x2="860" y2="60" stroke="#21262d" stroke-width="2"/>
 <circle cx="46" cy="40" r="6" fill="#ff5f56"/>
 <circle cx="64" cy="40" r="6" fill="#ffbd2e"/>
@@ -19,9 +19,9 @@
 <text x="79.25" y="303" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" font-weight="bold" >PROJECT</text>
 <text x="275.5" y="303" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" font-weight="bold" >DESCRIPTION</text>
 <text x="707.25" y="303" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" font-weight="bold" >STACK</text>
-<line x1="79.25" y1="309" x2="79.25" y2="450" stroke="#21262d" stroke-width="1"/>
-<line x1="275.5" y1="309" x2="275.5" y2="450" stroke="#21262d" stroke-width="1"/>
-<line x1="707.25" y1="309" x2="707.25" y2="450" stroke="#21262d" stroke-width="1"/>
+<line x1="79.25" y1="309" x2="79.25" y2="507" stroke="#21262d" stroke-width="1"/>
+<line x1="275.5" y1="309" x2="275.5" y2="507" stroke="#21262d" stroke-width="1"/>
+<line x1="707.25" y1="309" x2="707.25" y2="507" stroke="#21262d" stroke-width="1"/>
 <line x1="40" y1="322" x2="860" y2="322" stroke="#21262d" stroke-width="1"/>
 <text x="40" y="341" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >1</text>
 <text x="79.25" y="341" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >TradingCLI</text>
@@ -51,14 +51,26 @@
 <text x="79.25" y="455" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >substack-mcp</text>
 <text x="275.5" y="455" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >MCP server for reading Substack publications + posts</text>
 <text x="707.25" y="455" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" >TypeScript | MCP</text>
-<text x="40" y="493" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="14" fill="#e3b341" font-weight="bold" >▸ CONNECT</text>
-<line x1="40" y1="520" x2="860" y2="520" stroke="#21262d" stroke-width="2"/>
-<text x="40" y="539" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >LINKEDIN </text>
-<text x="110.64999999999999" y="539" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >linkedin.com/in/ryan-rodrigues-77</text>
-<text x="40" y="558" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >EMAIL    </text>
-<text x="110.64999999999999" y="558" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >ryanrodrigues25200525@gmail.com</text>
-<text x="40" y="577" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >FUND     </text>
-<text x="110.64999999999999" y="577" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >nautiluscapital.org</text>
-<text x="40" y="596" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >GITHUB   </text>
-<text x="110.64999999999999" y="596" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >github.com/ryanrodrigues25200525-svg</text>
+<text x="40" y="474" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >8</text>
+<text x="79.25" y="474" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >Meta Screener CLI</text>
+<text x="275.5" y="474" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >paced stock screens across 47 cross-signal checks</text>
+<text x="707.25" y="474" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" >Python | TypeScript</text>
+<text x="40" y="493" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >9</text>
+<text x="79.25" y="493" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >Battery Indicator</text>
+<text x="275.5" y="493" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >slim native macOS battery monitor</text>
+<text x="707.25" y="493" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" >Swift | macOS</text>
+<text x="40" y="512" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#3fb950" font-weight="bold" >10</text>
+<text x="79.25" y="512" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" font-weight="bold" >Finance Plugins</text>
+<text x="275.5" y="512" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#8b949e" >finance-focused Claude Code plugins</text>
+<text x="707.25" y="512" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" >Claude Code</text>
+<text x="40" y="550" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="14" fill="#e3b341" font-weight="bold" >▸ CONNECT</text>
+<line x1="40" y1="577" x2="860" y2="577" stroke="#21262d" stroke-width="2"/>
+<text x="40" y="596" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >LINKEDIN </text>
+<text x="110.64999999999999" y="596" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >linkedin.com/in/ryan-rodrigues-77</text>
+<text x="40" y="615" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >EMAIL    </text>
+<text x="110.64999999999999" y="615" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >ryanrodrigues25200525@gmail.com</text>
+<text x="40" y="634" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >FUND     </text>
+<text x="110.64999999999999" y="634" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >nautiluscapital.org</text>
+<text x="40" y="653" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#39c5cf" font-weight="bold" >GITHUB   </text>
+<text x="110.64999999999999" y="653" font-family="Menlo, Monaco, SF Mono, Consolas, monospace" font-size="13" fill="#e6edf3" >github.com/ryanrodrigues25200525-svg</text>
 </svg>
